@@ -10,6 +10,8 @@ Ik heb ervaring in html, css, javascript, java, php, mysql en een beetje android
 | [Lab2](https://github.com/R0754975/DEV5-LAB2) | bingo |
 | [Lab3](https://github.com/R0754975/DEV5-LAB3) | app prototype |
 | [Lab4](https://github.com/R0754975/DEV5-LAB4) | house in three.js |
+| [Lab6](https://github.com/R0754975/DEV5_LAB6) | Message App in Vue.js |
+
 
 ## Something new!
 
